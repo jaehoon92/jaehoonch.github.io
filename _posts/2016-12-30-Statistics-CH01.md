@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statistics CH01 | 통계학의 개념
+title: Statistics CH01  통계학의 개념
 categories: [Statistics]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
