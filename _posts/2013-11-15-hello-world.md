@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
+title: Configuration
+categories: [Statistics, Linear Algebra, Machine Learning, Apache Spark]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
-comments: true
 ---
 
 **dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
