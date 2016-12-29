@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuration
-categories: [general, setup, demo]
+categories: [Statistics, Linear Algebra, Machine Learning, Apache Spark]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 ---
