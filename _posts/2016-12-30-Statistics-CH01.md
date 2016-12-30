@@ -4,6 +4,8 @@ title: Statistics CH01 - 통계학의 개념
 categories: [Statistics]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
+comments: true
+published: true
 ---
 
 ### 1.1	의사결정과 통계적 사고
