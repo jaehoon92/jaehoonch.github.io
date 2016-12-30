@@ -7,6 +7,8 @@ fullview: false
 comments: true
 published: true
 ---
+통계학 강의 1
+
 
 ### 1.1	의사결정과 통계적 사고
 
