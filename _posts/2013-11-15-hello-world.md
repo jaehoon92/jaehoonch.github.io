@@ -5,6 +5,9 @@ categories: [Statistics, Linear Algebra, Machine Learning, Apache Spark]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 ---
+
+hello ppl
+
 {% include first_notebook.html %}
 **dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
 
